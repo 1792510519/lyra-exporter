@@ -77,7 +77,7 @@ export const ValidationUtils = {
       'https://gemini.google.com',
       'https://aistudio.google.com',
       'http://localhost:3789',
-      'https://yalums.github.io'
+      'https://1792510519.github.io'
     ];
     return allowedOrigins.some(allowed => origin === allowed) ||
       origin.includes('localhost') ||
