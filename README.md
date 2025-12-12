@@ -270,3 +270,4 @@ npm start
 2. Click the "Save as JSON" button on the respective platform's webpage
 3. Run Lyra Exporter and select JSON files exported from Claude, Gemini, or other platforms
 4. Start managing and organizing into Markdown documents
+
